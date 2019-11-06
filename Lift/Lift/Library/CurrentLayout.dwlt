@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 58
+  controlID: 74
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 498}
   m_MaxSize: {x: 14006, y: 14048}
   vertical: 1
-  controlID: 59
+  controlID: 75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 60
+  controlID: 76
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -482,9 +482,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.2297745, y: 3.6627026, z: 18.805582}
+    m_Target: {x: 2.143934, y: 4.0595655, z: 19.340117}
     speed: 2
-    m_Value: {x: 5.2297745, y: 3.6627026, z: 18.805582}
+    m_Value: {x: 2.143934, y: 4.0595655, z: 19.340117}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -512,13 +512,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.0064475005, y: 0.9932121, z: -0.06804056, w: -0.0941212}
+    m_Target: {x: 0.0010252856, y: 0.99702996, z: -0.075818904, w: 0.0134783825}
     speed: 2
-    m_Value: {x: -0.0064475005, y: 0.9932121, z: -0.06804056, w: -0.0941212}
+    m_Value: {x: 0.0010252856, y: 0.99702996, z: -0.075818904, w: 0.0134783825}
   m_Size:
-    m_Target: 16.037756
+    m_Target: 19.12532
     speed: 2
-    m_Value: 16.037756
+    m_Value: 19.12532
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -623,19 +623,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Dev-3\Desktop\Manikandan\personal\Lift\Lift
+  m_LastProjectPath: C:\Users\Dev-3\Documents\GitHub\lift\Lift\Lift
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a82a0000
-    m_LastClickedID: 10920
+    m_SelectedIDs: 2a270000
+    m_LastClickedID: 10026
     m_ExpandedIDs: 000000002a270000a229000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
